@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/yuhuan-afk?template=classic&followup=1&languages=1&pagespeed=1&languages.skipped=KOSL%2C%20KOSLL%2C%20pmcenter&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTaipei&config.animated=true)
 <!--
 **yuhuan-afk/yuhuan-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
