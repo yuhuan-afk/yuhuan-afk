@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-<!--[![alt text][2.1]][2]-->
 [![alt text][3.1]][3]
-<!--[![alt text][4.1]][4]-->
 [![alt text][5.1]][5]
 <!--[![alt text][6.1]][6]-->
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.instagram.com/khh._.is.me
+[1]: https://www.instagram.com/khh._.is_me
 [3]: https://twitter.com/KHH_Taiwan
 [5]: https://github.com/yuhuan-afk
 
