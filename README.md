@@ -29,5 +29,5 @@
 
 
 <!-- [5]: https://github.com/yuhuan-afk -->
-[![語言](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/yuhuan-afk)
+[![語言](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuan-afk&layout=compact&infoforgoogleads=yes)](https://github.com/yuhuan-afk)
 [![統整](https://github-readme-stats.vercel.app/api?username=yuhuan-afk&show_icons=true)]()
