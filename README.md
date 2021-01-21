@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/joechang0113/socialpage -->
 
-[![Top Langs](https://readmestata2-git-master.yuhuan-afk.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/yuhuan-afk)
-[![Anurag's github stats](https://readmestata2.vercel.app/api?username=yuhuan-afk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/yuhuan-afk)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhuan-afk&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://readme-two.fuckyoubitch I hate黃瑞軒 .app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <-- [Metrics](https://metrics.lecoq.io/yuhuan-afk?template=classic&followup=1&languages=1&pagespeed=1&languages.skipped=KOSL%2C%20KOSLL%2C%20pmcenter&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeijingTaipei&config.animated=true) -->
 
