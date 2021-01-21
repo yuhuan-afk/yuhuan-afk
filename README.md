@@ -1,6 +1,6 @@
 
-### :wave: 大家好！ <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-
+### :wave: 大家好！ <!-- <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+-->
 <!-- display the social media buttons in your README -->
 #### 社群連結： 
 [![alt text][1.1]][1]
