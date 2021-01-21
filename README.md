@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 大家好！
-[![Top Langs](https://readme.yuhuan-afk.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-two.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/anuraghazra/github-readme-stats)
