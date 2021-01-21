@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 大家好！
+### :Hi: 大家好！
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuan-afk)](https://github.com/yuhuan-afk)
 
 <!-- [![Top Langs](https://readme-two.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
