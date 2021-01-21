@@ -28,4 +28,4 @@
 
 
 <!-- [5]: https://github.com/yuhuan-afk -->
-[![統整](https://github-readme-stats.vercel.app/api?username=yuhuan-afk&show_icons=true)]()
+[![統整](https://github-readme-stats.vercel.app/api?username=yuhuan-afk?theme=radical&show_icons=true&googlead=yes)]()
