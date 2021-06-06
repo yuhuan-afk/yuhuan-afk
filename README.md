@@ -20,8 +20,8 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.instagram.com/khh._.is_me
-[3]: https://twitter.com/KHH_Taiwan
+[1]: https://www.instagram.com/kuohuanhuan_
+[3]: https://twitter.com/KuoHuanHuan
 [5]: https://github.com/yuhuan-afk
 
 ```diff
