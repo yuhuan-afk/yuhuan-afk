@@ -15,6 +15,6 @@
 [![python](https://camo.githubusercontent.com/be7e031ad3e9583082c92bf654cbb7a80dd0a41d3318ef04048800115bdf04e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3866636664313f7374796c653d706c6173746963266c6f676f3d507974686f6e)]()
 <br />
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
-[![Most lang.](https://github-readme-stats.vercel.app/api/top-langs/?username=kuohuanhuan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)]()
+[![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)]()
 <br />
-[![Activity](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)]()
+[![Commits](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)]()
