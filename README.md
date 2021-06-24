@@ -18,7 +18,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
+<span style="position: right;">[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)</span>
 [![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)]()
 <br />
 [![Commits](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)]()
