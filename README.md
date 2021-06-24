@@ -12,13 +12,7 @@
 [![Git](https://camo.githubusercontent.com/ef8e66167a75bde2cd8212d194ee612fd443bb831c5257591c081df4e9d8759e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d706c6173746963266c6f676f3d676974)]()
 [![php](https://camo.githubusercontent.com/97dd93be4a9fdc9c7e8850869a178ace9b3bf00e64b96d42e1f4cef4665050bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d3339343938393f7374796c653d706c6173746963266c6f676f3d706870)]()
 [![SHell](https://camo.githubusercontent.com/18c75bd791209b45277fdff3010e98e59f7380a538426f0457291c91df69cf1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d626c6173636b3f7374796c653d706c6173746963266c6f676f3d5368656c6c)]()
-<br /><!--
-- :office: &nbsp;I'm currently working at **New project**
-- :seedling: &nbsp;I’m currently learning **CSS3**
-- :speech_balloon: &nbsp;I like to talk about **Programming**
-- :mailbox: &nbsp;Ask me anything on my **[Telegram](https://t.me/kuohuanhuan)**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
--->
+<br />
 <img src='https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko' align='right' />
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
