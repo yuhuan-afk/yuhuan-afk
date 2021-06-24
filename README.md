@@ -18,7 +18,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Programming**
 - :mailbox: &nbsp;Ask me anything on my **[Telegram](https://t.me/kuohuanhuan)**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-<a href='https://github.com/kuohuanhuan'><img src='https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko' style='position: right;' /></a>
+<a href='https://github.com/kuohuanhuan'><img src='https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko' style='position: absolute; right: 0;' /></a>
 [![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)]()
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
