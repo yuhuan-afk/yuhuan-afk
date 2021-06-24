@@ -15,4 +15,4 @@
 [![SHell](https://camo.githubusercontent.com/18c75bd791209b45277fdff3010e98e59f7380a538426f0457291c91df69cf1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d626c6173636b3f7374796c653d706c6173746963266c6f676f3d5368656c6c)]()
 [![python](https://camo.githubusercontent.com/be7e031ad3e9583082c92bf654cbb7a80dd0a41d3318ef04048800115bdf04e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3866636664313f7374796c653d706c6173746963266c6f676f3d507974686f6e)]()
 <br />
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan)](https://github.com/kuohuanhuan)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
