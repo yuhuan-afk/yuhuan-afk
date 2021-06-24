@@ -14,5 +14,6 @@
 [![SHell](https://camo.githubusercontent.com/18c75bd791209b45277fdff3010e98e59f7380a538426f0457291c91df69cf1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d626c6173636b3f7374796c653d706c6173746963266c6f676f3d5368656c6c)]()
 <br />
 <img src='https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko' align='right' />
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true' align='left' />
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
