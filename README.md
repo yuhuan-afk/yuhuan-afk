@@ -1,4 +1,4 @@
-## GitHub of a little cat OAO <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" />
+## GitHub for a little cat OAO <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" />
 
 I am studying **CSS3**, working hard on New project and like to talk about **Programming**, ask me anything on my **[Telegram](https://t.me/kuohuanhuan)** ~
 
@@ -19,4 +19,8 @@ I am studying **CSS3**, working hard on New project and like to talk about **Pro
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true' align='righ' />
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
-
+<br />
+<footer></footer>
+<!--
+A README file writed by mysElf.
+-->
