@@ -13,6 +13,11 @@
 [![php](https://camo.githubusercontent.com/97dd93be4a9fdc9c7e8850869a178ace9b3bf00e64b96d42e1f4cef4665050bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d3339343938393f7374796c653d706c6173746963266c6f676f3d706870)]()
 [![SHell](https://camo.githubusercontent.com/18c75bd791209b45277fdff3010e98e59f7380a538426f0457291c91df69cf1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d626c6173636b3f7374796c653d706c6173746963266c6f676f3d5368656c6c)]()
 <br />
+- :office: &nbsp;I'm currently working at **[cool-homepage-template](/kuohuanhuan/cool-homepage-template)**
+- :seedling: &nbsp;I’m currently learning ****
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
 [![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)]()
 <br />
