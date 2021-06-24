@@ -5,7 +5,6 @@
 [![GitHub Followers](https://img.shields.io/badge/dynamic/json?color=0084ff&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkuohuanhuan)](https://github.com/kuohuanhuan)
 [![Twiter Followers](https://img.shields.io/badge/dynamic/json?color=0084ff&label=Twitter%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dkuohuanhuan)](https://twitter.com/kuohuanhuan)
 [![Github Star](https://img.shields.io/github/stars/kuohuanhuan?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/kuohuanhuan)
-<br />
 [![HTML5](https://camo.githubusercontent.com/973ef79f4480abda619de36ae96f335e9f4167d330d827b14a86b31587762deb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)]()
 [![CSS 3](https://camo.githubusercontent.com/982803cf428cb92cba498357d31f402ea379bc550f2293db476ff4d022673232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d706c6173746963266c6f676f3d63737333)]()
 [![Github](https://camo.githubusercontent.com/90a2f2eef5a9a6b15801e0b5b3c63f0a05ff51272a2a65ba3a0e337e89f9cb4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d706c6173746963266c6f676f3d676974687562)]()
@@ -16,5 +15,6 @@
 [![python](https://camo.githubusercontent.com/be7e031ad3e9583082c92bf654cbb7a80dd0a41d3318ef04048800115bdf04e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3866636664313f7374796c653d706c6173746963266c6f676f3d507974686f6e)]()
 <br />
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
+[![Most lang.](https://github-readme-stats.vercel.app/api/top-langs/?username=kuohuanhuan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)]()
 <br />
 [![Activity](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)]()
