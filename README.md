@@ -17,5 +17,4 @@
 <br />
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
 <br />
-[<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kuohuanhuan&repo=cool-homepage-template&theme=material-palenight" />]()
-  
+[![Activity](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)]()
