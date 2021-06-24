@@ -21,4 +21,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)](https://github.com/kuohuanhuan)
 [![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)]()
 <br />
-![Commits](https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true)
+<img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
