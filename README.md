@@ -17,3 +17,7 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true' align='righ' />
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
+
+- :speech_balloon: &nbsp;I like to talk about **Programming**
+- :mailbox: &nbsp;Ask me anything on my **[Telegram](https://t.me/kuohuanhuan)**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
