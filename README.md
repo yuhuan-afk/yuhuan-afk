@@ -20,7 +20,7 @@ I am studying **CSS3**, working hard on New project and like to talk about **Pro
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
 <br />
-<footer>Copyright &copy; 2020 <span>-</span> 2021 KuoHuanHuan, all right reserved but allows personal use.</footer>
+<footer><small><center>Copyright &copy; 2020 <span>-</span> 2021 KuoHuanHuan, all right reserved but allows personal use.</center></small></footer>
 <!--
 A README file writed by mysElf.
 -->
