@@ -22,5 +22,7 @@ I am studying **CSS3**, working hard on New project and like to talk about **Pro
 <br />
 <footer><small><center>Copyright &copy; 2020 <span>-</span> 2021 KuoHuanHuan, all right reserved but allows personal use.</center></small></footer>
 <!--
-A README file writed by mysElf.
+A README file writed by mysElf.low 
+Allows personal use for GitHub README file~
+copyright (c) 2020 - 2021 KuoHuanHuan.
 -->
