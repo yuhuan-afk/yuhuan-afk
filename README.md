@@ -20,5 +20,6 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <img src='https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko' align='right' />
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true' align='right' />
 <br />
 <img src='https://activity-graph.herokuapp.com/graph?username=kuohuanhuan&theme=react-dark&bg_color=20232a&hide_border=true' />
