@@ -1,6 +1,6 @@
 ## 一隻小喵的 GitHub OAO <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" />
 
-:speech_balloon: &nbsp;I like to talk about **Programming**, ask me anything on my **[Telegram](https://t.me/kuohuanhuan)** ~
+I am studying **CSS3**, working hard on New project and like to talk about **Programming**, ask me anything on my **[Telegram](https://t.me/kuohuanhuan)** ~
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn5wwqveyCcLQv9FBiDM2Mw)](https://www.youtube.com/channel/UCn5wwqveyCcLQv9FBiDM2Mw)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCn5wwqveyCcLQv9FBiDM2Mw)](https://www.youtube.com/channel/UCn5wwqveyCcLQv9FBiDM2Mw)
